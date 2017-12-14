@@ -13,7 +13,7 @@ namespace DiceRolls
             bool isThereAWinner = false; // This is what my loop will be checking
             int turnCounter = PickFirstPlayer(); // This will tell me who's turn it is.
             int computerScore = 0; // This is the computer's score
-            int kendraScore = 0; // This is the player's score
+            int kendraScore = 0; //dfjasdfjas;ldfjkasl;dkfjasdlkfj// This is the player's score
 
             Console.WriteLine("Let's Play A Game!!");
             Console.WriteLine("Who Ever Gets To 20 First, WINS!!!");
