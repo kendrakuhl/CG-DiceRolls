@@ -19,7 +19,7 @@ namespace DiceRolls
             Console.WriteLine("Who Ever Gets To 20 First, WINS!!!");
             Console.Write("Please enter a name and hit enter: ");
             var playerName = Console.ReadLine();
-
+            //hjjcjcnncsjczsthis is my comment
             do
             {
                 // If the turn counter is odd, it's my turn. If it's even, it's computer's
